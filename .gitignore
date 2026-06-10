@@ -1,0 +1,11 @@
+# Archivos compilados
+bin/
+*.class
+
+# macOS
+.DS_Store
+
+# Eclipse
+.metadata/
+*.tmp
+*.bak
