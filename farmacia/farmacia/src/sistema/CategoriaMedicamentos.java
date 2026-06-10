@@ -97,4 +97,6 @@ public class CategoriaMedicamentos
             imprimirNodo((ArbolGeneral<Categoria>) hijos[i], nivel + 1);
         }
     }
+
 }
+
